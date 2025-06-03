@@ -1,4 +1,4 @@
-3# 💫 About Me:
+## 💫 About Me:
 Computer Science Student at Technion
 
 
